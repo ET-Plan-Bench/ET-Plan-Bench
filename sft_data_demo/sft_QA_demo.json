@@ -1,0 +1,282 @@
+[
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_3026_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you lead me to the microwave?\n\nDetermine which room may contain the object microwave, and the room list is ['kitchen', 'bedroom', 'bathroom', 'livingroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchen', 'livingroom', 'bedroom', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_659_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you fetch me a salmon?\n\nDetermine which room may contain the object salmon, and the room list is ['bathroom', 'bedroom', 'kitchen', 'livingroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchen', 'livingroom', 'bedroom', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_1403_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you turn on the radio for me?\n\nDetermine which room may contain the object radio, and the room list is ['bathroom', 'kitchen', 'bedroom', 'livingroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['livingroom', 'bedroom', 'kitchen', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_1314_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you lead me to the fridge?\n\nDetermine which room may contain the object fridge, and the room list is ['bathroom', 'kitchen', 'bedroom', 'livingroom', 'bedroom', 'bathroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchen', 'livingroom', 'bedroom', 'bedroom', 'bathroom', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_1314_prompt_conversation_1",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you lead me to the fridge?\n\nCurrently, the robot is in the room kitchen and can see objects ['coffeemaker', 'livingroom', 'kitchencounter', 'chocolatesyrup', 'window', 'chicken', 'condimentshaker', 'garbagecan', 'bedroom', 'character', 'microwave', 'bed', 'knifeblock', 'radio', 'apple', 'fryingpan', 'cutleryknife', 'chair', 'cellphone', 'faucet', 'dishbowl', 'wallpictureframe', 'waterglass', 'kitchencabinet', 'kitchencounterdrawer', 'stove', 'breadslice', 'cookingpot', 'clothespile', 'bookshelf', 'toaster', 'kitchen', 'mug', 'cutlets', 'plate', 'creamybuns', 'dishwashingliquid']. Since the target object could be obscured by some larger visible objects, the robot needs to explore the room further. Is this possible the object fridge is located inside or nearby one of these visible objects? If yes, please only output these possbile visible objects in a Python-style list and in the order of possibility, if not, please only output None.\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchencabinet', 'stove', 'microwave']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_1301_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Please locate the microwave.\n\nDetermine which room may contain the object microwave, and the room list is ['bathroom', 'kitchen', 'bedroom', 'livingroom', 'bedroom', 'bathroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchen', 'livingroom', 'bedroom', 'bedroom', 'bathroom', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_3636_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Could you show me where the faucet is?\n\nDetermine which room may contain the object faucet, and the room list is ['bathroom', 'bedroom', 'kitchen', 'livingroom', 'bedroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['bathroom', 'kitchen', 'livingroom', 'bedroom', 'bedroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_3209_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you locate the wallshelf for me?\n\nDetermine which room may contain the object wallshelf, and the room list is ['livingroom', 'kitchen', 'bedroom', 'bathroom', 'livingroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['livingroom', 'bedroom', 'kitchen', 'livingroom', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_2154_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Please bring me the mouse.\n\nDetermine which room may contain the object mouse, and the room list is ['bathroom', 'bedroom', 'livingroom', 'kitchen']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['bedroom', 'livingroom', 'kitchen', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_160_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you point to the wallphone?\n\nDetermine which room may contain the object wallphone, and the room list is ['bathroom', 'bedroom', 'kitchen', 'livingroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchen', 'livingroom', 'bedroom', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_2994_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you bring me a pillow?\n\nDetermine which room may contain the object pillow, and the room list is ['kitchen', 'bathroom', 'bedroom', 'livingroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['bedroom', 'livingroom', 'kitchen', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_task_483_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you locate the microwave for me?\n\nDetermine which room may contain the object microwave, and the room list is ['bathroom', 'bedroom', 'kitchen', 'livingroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchen', 'livingroom', 'bedroom', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_with_constraint_task_3636_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you locate the CPU screen on the desk?\n\nDetermine which room may contain the object cpuscreen and the object desk in the meantime, and the room list is ['bathroom', 'kitchen', 'bedroom']. Please ranking these rooms based on the possibility and only output a Python-style list.\n\nThe number of output rooms should be the same as the number of rooms in the original room list.\n\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "```python\n['bedroom', 'kitchen', 'bathroom']\n```"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_with_constraint_task_2219_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you get the folder inside the kitchen?\n\nCurrently, the robot is in the room kitchen and can see objects ['mincedmeat', 'coffeepot', 'knifeblock', 'condimentshaker', 'orchid', 'livingroom', 'fryingpan', 'chair', 'tvstand', 'bananas', 'photoframe', 'box', 'cookingpot', 'cutleryknife', 'wallshelf', 'salmon', 'book', 'kitchencounter', 'milk', 'candle', 'plate', 'juice', 'cellphone', 'bookshelf', 'faucet', 'toaster', 'dishwasher', 'coffeemaker', 'dishbowl', 'character', 'breadslice', 'clothespile', 'lightswitch', 'microwave', 'bedroom', 'stove', 'kitchen', 'kitchencabinet', 'kitchencounterdrawer', 'cutlets', 'condimentbottle']. Since the target object could be obscured by some larger visible objects, the robot needs to explore the room further. Is this possible the object folder is located inside or nearby one of these visible objects? If yes, please only output these possbile visible objects in a Python-style list and in the order of possibility, if not, please only output None.\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchencabinet', 'kitchencounterdrawer', 'box', 'bookshelf', 'tvstand']"
+            }
+        ]
+    },
+    {
+        "id": "all_gpt4_simple_360_exploration_ranking_room_instance_room_upgrade_with_constraint_task_428_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Given the task: Can you locate the toilet inside the bathroom?\n\nCurrently, the robot is in the room bathroom and can see objects ['hanger', 'clothesshirt', 'wallpictureframe', 'washingmachine', 'tv', 'pillow', 'clothespile', 'livingroom', 'facecream', 'wallshelf', 'character', 'toothpaste', 'stall', 'towel', 'toothbrush', 'sink', 'chair', 'photoframe', 'remotecontrol', 'rug', 'door', 'hairproduct', 'deodorant', 'faucet', 'slippers', 'barsoap', 'closet', 'painkillers', 'powersocket', 'bathroom', 'clothespants', 'closetdrawer', 'book', 'washingsponge']. Since the target object could be obscured by some larger visible objects, the robot needs to explore the room further. Is this possible the object toilet is located inside or nearby one of these visible objects? If yes, please only output these possbile visible objects in a Python-style list and in the order of possibility, if not, please only output None.\n\nPlease do not output the thinking process.\n\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['stall']"
+            }
+        ]
+    },
+    {
+        "id": "nav_inside_cons/env_44_task_31_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "# ROOM_LIST\n['kitchen', 'livingroom', 'bedroom', 'bathroom']\n# INSTRUCTION\nDetermine which room is most likely to contain creamybuns and bookshelf. Please re-order the room names in the ROOM_LIST by their probability to contain creamybuns and bookshelf.\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\nOutput your answer inside [], like [room_name1, room_name2, room_name3, room_name4].\nThe rooms most probable to contain creamybuns and bookshelf are: []\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['livingroom', 'kitchen', 'bedroom', 'bathroom']"
+            }
+        ]
+    },
+    {
+        "id": "nav_inside_cons/env_44_task_31_prompt_conversation_1",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "# OBJECT_LIST\n['coffeemaker', 'dishbowl', 'barsoap', 'bathroomcabinet', 'computer', 'window', 'faucet', 'alcohol', 'coffeetable', 'sink', 'toothbrush', 'cpuscreen', 'cellphone', 'desk', 'facecream', 'chair', 'poundcake', 'toothpaste', 'closet', 'crayons', 'tablelamp', 'folder', 'wallpictureframe', 'pillow', 'kitchencabinet', 'bottlewater', 'milk', 'toilet', 'tvstand', 'plum', 'stall', 'hairproduct', 'towel', 'notes', 'peach', 'kitchencounterdrawer', 'tv', 'photoframe', 'kitchencounter', 'coffeepot', 'mug', 'mouse', 'sofa', 'lightswitch', 'cereal', 'crackers', 'book', 'apple']\n# INSTRUCTION\ncreamybuns and bookshelf might be hidden by some other objects. creamybuns and bookshelf might be most likely to be hidden or contained by which objects in the OBJECT_LIST?\nFrom OBJECT_LIST, select only those objects that you think creamybuns and bookshelf might be likely inside or hidden behind, and order these objects by their probabilty to contain or to hide creamybuns and bookshelf (with the most likely object put in the front). Then, output them in a Python-style list, like [object1,object2]. Please output no more than 5 such objects. If you think none of the objects is likely to contain or to hide creamybuns and bookshelf, please output \"None\".\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['kitchencabinet', 'kitchencounterdrawer', 'closet', 'desk', 'bathroomcabinet']"
+            }
+        ]
+    },
+    {
+        "id": "nav_inside_cons/env_44_task_84_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "# ROOM_LIST\n['kitchen', 'livingroom', 'bathroom', 'bedroom']\n# INSTRUCTION\nDetermine which room is most likely to contain toothpaste and bathroomcounter. Please re-order the room names in the ROOM_LIST by their probability to contain toothpaste and bathroomcounter.\nPlease do not output the answer like 'As an AI language model, I don not have the ability to physically determine the location of objects or bring them to you.'\nOutput your answer inside [], like [room_name1, room_name2, room_name3, room_name4].\nThe rooms most probable to contain toothpaste and bathroomcounter are: []\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['bathroom', 'bedroom', 'kitchen', 'livingroom']"
+            }
+        ]
+    },
+    {
+        "id": "nav_inside_cons/env_44_task_84_prompt_conversation_1",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "# OBJECT_LIST\n['bed', 'microwave', 'clothespile', 'breadslice', 'kitchencounter', 'cereal', 'plate', 'apple', 'toothbrush', 'milk', 'fryingpan', 'kitchencabinet', 'chips', 'toiletpaper', 'kitchentable', 'chicken', 'creamybuns', 'dishwashingliquid', 'knifeblock', 'poundcake', 'kitchencounterdrawer', 'fridge', 'photoframe', 'toilet', 'cutlets', 'toy', 'bottlewater', 'bookshelf', 'stall', 'washingsponge', 'closet', 'cutleryknife', 'paper', 'wallpictureframe', 'chair', 'bathroomcabinet', 'barsoap', 'chocolatesyrup', 'coffeepot', 'alcohol', 'slippers', 'book', 'lightswitch', 'cookingpot', 'cabinet', 'dishbowl', 'bathroomcounter', 'radio', 'stove', 'coffeemaker', 'candle', 'towel', 'sink', 'hairproduct', 'faucet', 'toaster', 'condimentshaker']\n# INSTRUCTION\ntoothpaste and bathroomcounter might be hidden by some other objects. toothpaste and bathroomcounter might be most likely to be hidden or contained by which objects in the OBJECT_LIST?\nFrom OBJECT_LIST, select only those objects that you think toothpaste and bathroomcounter might be likely inside or hidden behind, and order these objects by their probabilty to contain or to hide toothpaste and bathroomcounter (with the most likely object put in the front). Then, output them in a Python-style list, like [object1,object2]. Please output no more than 5 such objects. If you think none of the objects is likely to contain or to hide toothpaste and bathroomcounter, please output \"None\".\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['bathroomcabinet', 'closet', 'cabinet', 'kitchencabinet', 'toilet']"
+            }
+        ]
+    },
+    {
+        "id": "nav_inside_cons/env_44_task_117_prompt_conversation_0",
+        "image": "/home/LLaVA/empty_img.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "# OBJECT_LIST\n['poundcake', 'crackers', 'desk', 'sundae', 'tablelamp', 'mug', 'wineglass', 'faucet', 'microwave', 'milk', 'toilet', 'chicken', 'kitchentable', 'chocolatesyrup', 'wine', 'radio', 'candle', 'book', 'folder', 'chair', 'stall', 'barsoap', 'bed', 'powersocket', 'window', 'closet', 'toy', 'orchid', 'toothpaste', 'chips', 'cellphone', 'kitchencounter', 'bathroomcabinet', 'plate', 'hairproduct', 'plum', 'kitchencounterdrawer', 'bottlewater', 'notes', 'cabinet', 'breadslice', 'pillow', 'rug', 'dishbowl', 'toothbrush', 'slippers', 'towel', 'cookingpot', 'stove', 'creamybuns', 'mouse', 'cereal', 'bookshelf', 'facecream', 'clothespile', 'peach', 'lightswitch', 'apple', 'alcohol', 'fryingpan', 'kitchencabinet', 'toaster', 'cpuscreen', 'tv', 'photoframe', 'keyboard', 'tvstand', 'candybar', 'magazine', 'wallpictureframe', 'juice']\n# INSTRUCTION\nsink might be hidden by some other objects. sink might be most likely to be hidden or contained by which objects in the OBJECT_LIST?\nFrom OBJECT_LIST, select only those objects that you think sink might be likely inside or hidden behind, and order these objects by their probabilty to contain or to hide sink (with the most likely object put in the front). Then, output them in a Python-style list, like [object1,object2]. Please output no more than 5 such objects. If you think none of the objects is likely to contain or to hide sink, please output \"None\".\n"
+            },
+            {
+                "from": "gpt",
+                "value": "['towel', 'bathroomcabinet', 'kitchencounter', 'kitchencabinet', 'microwave']"
+            }
+        ]
+    }
+]
